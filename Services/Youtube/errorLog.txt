@@ -1,0 +1,511 @@
+
+05/16/2022 - 11:05:36: Error collecting stats2
+
+
+05/16/2022 - 11:15:12: Error collecting stats2
+
+
+05/19/2022 - 15:24:28: Error collecting stats2
+
+
+05/23/2022 - 11:56:35: Error collecting stats2
+
+
+05/23/2022 - 12:58:48: Error collecting stats2
+
+
+06/10/2022 - 15:32:46: Error collecting stats2
+
+
+06/14/2022 - 12:38:59: Error collecting stats2
+
+
+06/15/2022 - 10:07:56: Error collecting stats2
+
+
+09/21/2022 - 12:24:34: Error collecting stats2
+
+
+09/23/2022 - 13:41:29: Error collecting stats
+
+09/23/2022 - 13:41:29: 'Resolution_player'
+
+09/23/2022 - 13:41:30: Error collecting stats
+
+09/23/2022 - 13:41:30: 'Resolution_player'
+
+09/23/2022 - 13:41:31: Error collecting stats
+
+09/23/2022 - 13:41:31: 'Resolution_player'
+
+09/23/2022 - 13:41:32: Error collecting stats
+
+09/23/2022 - 13:41:32: 'Resolution_player'
+
+09/23/2022 - 13:41:33: Error collecting stats
+
+09/23/2022 - 13:41:33: 'Resolution_player'
+
+09/23/2022 - 13:41:34: Error collecting stats
+
+09/23/2022 - 13:41:34: 'Resolution_player'
+
+09/23/2022 - 13:41:35: Error collecting stats
+
+09/23/2022 - 13:41:35: 'Resolution_player'
+
+09/23/2022 - 13:41:36: Error collecting stats
+
+09/23/2022 - 13:41:36: 'Resolution_player'
+
+09/23/2022 - 13:41:37: Error collecting stats
+
+09/23/2022 - 13:41:37: 'Resolution_player'
+
+09/23/2022 - 13:41:38: Error collecting stats
+
+09/23/2022 - 13:41:38: 'Resolution_player'
+
+09/23/2022 - 13:41:39: Error collecting stats
+
+09/23/2022 - 13:41:39: 'Resolution_player'
+
+09/23/2022 - 13:41:40: Error collecting stats
+
+09/23/2022 - 13:41:40: 'Resolution_player'
+
+09/23/2022 - 13:41:41: Error collecting stats
+
+09/23/2022 - 13:41:41: 'Resolution_player'
+
+09/23/2022 - 13:41:42: Error collecting stats
+
+09/23/2022 - 13:41:42: 'Resolution_player'
+
+09/23/2022 - 13:41:43: Error collecting stats
+
+09/23/2022 - 13:41:43: 'Resolution_player'
+
+09/23/2022 - 13:41:44: Error collecting stats
+
+09/23/2022 - 13:41:44: 'Resolution_player'
+
+09/23/2022 - 13:41:45: Error collecting stats
+
+09/23/2022 - 13:41:45: 'Resolution_player'
+
+09/23/2022 - 13:41:46: Error collecting stats
+
+09/23/2022 - 13:41:46: 'Resolution_player'
+
+09/23/2022 - 13:41:47: Error collecting stats
+
+09/23/2022 - 13:41:47: 'Resolution_player'
+
+09/23/2022 - 13:41:48: Error collecting stats
+
+09/23/2022 - 13:41:48: 'Resolution_player'
+
+09/23/2022 - 13:41:49: Error collecting stats
+
+09/23/2022 - 13:41:49: 'Resolution_player'
+
+09/23/2022 - 13:41:50: Error collecting stats
+
+09/23/2022 - 13:41:50: 'Resolution_player'
+
+09/23/2022 - 13:41:51: Error collecting stats
+
+09/23/2022 - 13:41:51: 'Resolution_player'
+
+09/23/2022 - 13:41:52: Error collecting stats
+
+09/23/2022 - 13:41:52: 'Resolution_player'
+
+09/23/2022 - 13:41:53: Error collecting stats
+
+09/23/2022 - 13:41:53: 'Resolution_player'
+
+09/23/2022 - 13:41:54: Error collecting stats
+
+09/23/2022 - 13:41:54: 'Resolution_player'
+
+09/23/2022 - 13:41:55: Error collecting stats
+
+09/23/2022 - 13:41:55: 'Resolution_player'
+
+09/23/2022 - 13:41:56: Error collecting stats
+
+09/23/2022 - 13:41:56: 'Resolution_player'
+
+09/23/2022 - 13:41:57: Error collecting stats
+
+09/23/2022 - 13:41:57: 'Resolution_player'
+
+09/23/2022 - 13:41:58: Error collecting stats
+
+09/23/2022 - 13:41:58: 'Resolution_player'
+
+09/23/2022 - 13:41:59: Error collecting stats
+
+09/23/2022 - 13:41:59: 'Resolution_player'
+
+09/23/2022 - 13:42:00: Error collecting stats
+
+09/23/2022 - 13:42:00: 'Resolution_player'
+
+09/23/2022 - 13:42:01: Error collecting stats
+
+09/23/2022 - 13:42:01: 'Resolution_player'
+
+09/23/2022 - 13:42:02: Error collecting stats
+
+09/23/2022 - 13:42:02: 'Resolution_player'
+
+09/23/2022 - 13:42:04: Error collecting stats
+
+09/23/2022 - 13:42:04: 'Resolution_player'
+
+09/23/2022 - 13:42:05: Error collecting stats
+
+09/23/2022 - 13:42:05: 'Resolution_player'
+
+09/23/2022 - 13:42:06: Error collecting stats
+
+09/23/2022 - 13:42:06: 'Resolution_player'
+
+09/23/2022 - 13:42:07: Error collecting stats
+
+09/23/2022 - 13:42:07: 'Resolution_player'
+
+09/23/2022 - 13:42:08: Error collecting stats
+
+09/23/2022 - 13:42:08: 'Resolution_player'
+
+09/23/2022 - 13:42:09: Error collecting stats
+
+09/23/2022 - 13:42:09: 'Resolution_player'
+
+09/23/2022 - 13:42:10: Error collecting stats
+
+09/23/2022 - 13:42:10: 'Resolution_player'
+
+09/23/2022 - 13:42:11: Error collecting stats
+
+09/23/2022 - 13:42:11: 'Resolution_player'
+
+09/23/2022 - 13:42:12: Error collecting stats
+
+09/23/2022 - 13:42:12: 'Resolution_player'
+
+09/23/2022 - 13:42:13: Error collecting stats
+
+09/23/2022 - 13:42:13: 'Resolution_player'
+
+09/23/2022 - 13:42:14: Error collecting stats
+
+09/23/2022 - 13:42:14: 'Resolution_player'
+
+09/23/2022 - 13:42:15: Error collecting stats
+
+09/23/2022 - 13:42:15: 'Resolution_player'
+
+09/23/2022 - 13:42:16: Error collecting stats
+
+09/23/2022 - 13:42:16: 'Resolution_player'
+
+09/23/2022 - 13:42:17: Error collecting stats
+
+09/23/2022 - 13:42:17: 'Resolution_player'
+
+09/23/2022 - 13:42:18: Error collecting stats
+
+09/23/2022 - 13:42:18: 'Resolution_player'
+
+09/23/2022 - 13:42:19: Error collecting stats
+
+09/23/2022 - 13:42:19: 'Resolution_player'
+
+09/23/2022 - 13:42:20: Error collecting stats
+
+09/23/2022 - 13:42:20: 'Resolution_player'
+
+09/23/2022 - 13:42:21: Error collecting stats
+
+09/23/2022 - 13:42:21: 'Resolution_player'
+
+09/23/2022 - 13:42:22: Error collecting stats
+
+09/23/2022 - 13:42:22: 'Resolution_player'
+
+09/23/2022 - 13:42:23: Error collecting stats
+
+09/23/2022 - 13:42:23: 'Resolution_player'
+
+09/23/2022 - 13:42:24: Error collecting stats
+
+09/23/2022 - 13:42:24: 'Resolution_player'
+
+09/23/2022 - 13:42:25: Error collecting stats
+
+09/23/2022 - 13:42:25: 'Resolution_player'
+
+09/23/2022 - 13:42:26: Error collecting stats
+
+09/23/2022 - 13:42:26: 'Resolution_player'
+
+09/23/2022 - 13:42:27: Error collecting stats
+
+09/23/2022 - 13:42:27: 'Resolution_player'
+
+09/23/2022 - 13:42:28: Error collecting stats
+
+09/23/2022 - 13:42:28: 'Resolution_player'
+
+09/26/2022 - 16:50:41: Error collecting stats2
+
+
+09/26/2022 - 16:53:17: Error collecting stats2
+
+
+09/26/2022 - 16:55:33: Error collecting stats2
+
+
+09/26/2022 - 16:58:57: Error collecting stats2
+
+
+09/26/2022 - 17:15:14: Error collecting stats2
+
+
+09/27/2022 - 09:52:06: Error collecting stats2
+
+
+09/27/2022 - 13:13:56: Error collecting stats2
+
+
+09/28/2022 - 17:23:53: Error collecting stats2
+
+09/29/2022 - 10:58:29: Error collecting stats2
+
+
+09/29/2022 - 12:00:42: Error collecting stats2
+
+09/29/2022 - 17:55:19: Error collecting stats2
+
+10/25/2022 - 07:03:11: Error collecting stats (point 2)
+
+
+10/25/2022 - 07:06:55: Error collecting stats (point 2)
+
+
+10/25/2022 - 07:19:37: Error collecting stats (point 2)
+
+
+11/03/2022 - 08:47:02: Error collecting stats (point 2)
+
+
+11/03/2022 - 16:42:30: Error collecting stats (point 2)
+
+
+11/16/2022 - 16:38:15: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:35:41: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:37:30: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:39:10: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:42:25: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:49:13: Error collecting stats (point 2)
+
+
+11/17/2022 - 10:51:14: Error collecting stats (point 2)
+
+
+11/17/2022 - 11:01:26: Error collecting stats (point 2)
+
+
+11/17/2022 - 13:23:25: Error collecting stats (point 2)
+
+
+11/17/2022 - 14:24:16: Error collecting stats (point 2)
+
+
+11/17/2022 - 14:25:24: Error collecting stats (point 2)
+
+
+11/17/2022 - 14:27:53: Error collecting stats (point 2)
+
+
+11/17/2022 - 14:55:07: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:07:40: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:09:19: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:24:10: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:25:35: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:27:28: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:28:36: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:30:44: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:56:15: Error collecting stats (point 2)
+
+
+11/17/2022 - 15:58:54: Error collecting stats (point 2)
+
+
+11/17/2022 - 16:02:22: Error collecting stats (point 2)
+
+
+11/17/2022 - 16:06:43: Error collecting stats (point 2)
+
+
+11/21/2022 - 11:08:27: Error collecting stats (point 2)
+
+
+11/21/2022 - 11:10:14: Error collecting stats
+
+11/21/2022 - 11:10:14: 'Resolution_player'
+
+11/21/2022 - 11:10:15: Error collecting stats
+
+11/21/2022 - 11:10:15: 'Resolution_player'
+
+11/21/2022 - 11:10:16: Error collecting stats
+
+11/21/2022 - 11:10:16: 'Resolution_player'
+
+11/21/2022 - 11:10:17: Error collecting stats
+
+11/21/2022 - 11:10:17: 'Resolution_player'
+
+11/21/2022 - 11:10:18: Error collecting stats
+
+11/21/2022 - 11:10:18: 'Resolution_player'
+
+11/21/2022 - 11:10:19: Error collecting stats
+
+11/21/2022 - 11:10:19: 'Resolution_player'
+
+11/21/2022 - 11:10:20: Error collecting stats
+
+11/21/2022 - 11:10:20: 'Resolution_player'
+
+11/21/2022 - 11:10:21: Error collecting stats
+
+11/21/2022 - 11:10:21: 'Resolution_player'
+
+11/21/2022 - 11:10:22: Error collecting stats
+
+11/21/2022 - 11:10:22: 'Resolution_player'
+
+11/21/2022 - 11:10:23: Error collecting stats
+
+11/21/2022 - 11:10:23: 'Resolution_player'
+
+11/21/2022 - 11:10:24: Error collecting stats
+
+11/21/2022 - 11:10:24: 'Resolution_player'
+
+11/21/2022 - 11:10:25: Error collecting stats
+
+11/21/2022 - 11:10:25: 'Resolution_player'
+
+11/21/2022 - 11:10:26: Error collecting stats
+
+11/21/2022 - 11:10:26: 'Resolution_player'
+
+11/21/2022 - 11:10:27: Error collecting stats
+
+11/21/2022 - 11:10:27: 'Resolution_player'
+
+11/21/2022 - 11:10:28: Error collecting stats
+
+11/21/2022 - 11:10:28: 'Resolution_player'
+
+11/21/2022 - 11:10:29: Error collecting stats
+
+11/21/2022 - 11:10:29: 'Resolution_player'
+
+11/21/2022 - 11:10:30: Error collecting stats
+
+11/21/2022 - 11:10:30: 'Resolution_player'
+
+11/21/2022 - 11:10:31: Error collecting stats
+
+11/21/2022 - 11:10:31: 'Resolution_player'
+
+11/21/2022 - 11:10:32: Error collecting stats
+
+11/21/2022 - 11:10:32: 'Resolution_player'
+
+11/21/2022 - 11:10:33: Error collecting stats
+
+11/21/2022 - 11:10:33: 'Resolution_player'
+
+11/21/2022 - 11:10:34: Error collecting stats
+
+11/21/2022 - 11:10:34: 'Resolution_player'
+
+11/21/2022 - 11:10:35: Error collecting stats
+
+11/21/2022 - 11:10:35: 'Resolution_player'
+
+11/21/2022 - 11:10:36: Error collecting stats
+
+11/21/2022 - 11:10:36: 'Resolution_player'
+
+11/21/2022 - 11:10:37: Error collecting stats
+
+11/21/2022 - 11:10:37: 'Resolution_player'
+
+11/21/2022 - 11:10:38: Error collecting stats
+
+11/21/2022 - 11:10:38: 'Resolution_player'
+
+11/24/2022 - 17:30:51: Error collecting stats (point 2)
+
+
+11/24/2022 - 17:43:54: Error collecting stats (point 2)
+
+
+11/24/2022 - 17:47:01: Error collecting stats (point 2)
+
+
+11/24/2022 - 17:48:39: Error collecting stats (point 2)
+
+
+11/24/2022 - 17:52:19: Error collecting stats (point 2)
+
+02/10/2023 - 12:34:01: Error collecting stats (point 2)
+
+02/10/2023 - 13:32:34: Error collecting stats (point 2)
+
+02/13/2023 - 21:45:21: Error collecting stats (point 2)
+
+02/13/2023 - 21:46:35: Error collecting stats (point 2)
+
+02/13/2023 - 22:16:58: Error collecting stats (point 2)
+
+02/14/2023 - 09:20:18: Error collecting stats (point 2)
+
+02/21/2023 - 16:53:57: Error collecting stats (point 2)
